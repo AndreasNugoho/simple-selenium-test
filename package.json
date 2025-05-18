@@ -4,7 +4,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test-login": "node login.test.js"
+    "test-login": "node login.test.js",
+    "test-crud": "node crud.test.js"
 
   },
   "dependencies": {
